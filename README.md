@@ -29,4 +29,5 @@
 
 ### 1. Via CDN
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Yashh-Penchi/LuxoraUI/LuxoraCSS/luxora.min.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Yashh-Penchi/LuxoraUI@main/LuxoraUICSS/LuxoraUI.min.css">
+
